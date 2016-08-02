@@ -8,10 +8,10 @@ $(function() {
 
   var Config = {
     reddit: {
-      'javascript': 'http://localhost:3000/mocks/reddit-javascript.json',//'https://www.reddit.com/r/javascript.json'
-      'earthporn': 'http://localhost:3000/mocks/reddit-earthporn.json',//'https://www.reddit.com/r/earthporn.json'
-      'funny': 'http://localhost:3000/mocks/reddit-funny.json',//'https://www.reddit.com/r/funny.json'
-      'diy': 'http://localhost:3000/mocks/reddit-diy.json',//'https://www.reddit.com/r/diy.json'
+      'javascript': '/mocks/reddit-javascript.json',//'https://www.reddit.com/r/javascript.json'
+      'earthporn': '/mocks/reddit-earthporn.json',//'https://www.reddit.com/r/earthporn.json'
+      'funny': '/mocks/reddit-funny.json',//'https://www.reddit.com/r/funny.json'
+      'diy': '/mocks/reddit-diy.json',//'https://www.reddit.com/r/diy.json'
     }
   };
 
